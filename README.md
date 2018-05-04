@@ -125,3 +125,5 @@ def main(cmd):
 if __name__ == '__main__':
     cmd=input("请输入SQL语句：").strip()
     main(cmd)
+
+![Alt text](http://s1.51cto.com/images/20180504/1525403548451542.png)
